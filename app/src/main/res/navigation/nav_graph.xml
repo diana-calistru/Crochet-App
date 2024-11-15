@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@id/patternsFragment">
+
+    <fragment
+        android:id="@+id/patternsFragment"
+        android:name="com.example.crochetapp.PatternsFragment"
+        android:label="Patterns"
+        tools:layout="@layout/fragment_patterns" />
+
+
+    <!--    <fragment-->
+<!--        android:id="@+id/currentProjectFragment"-->
+<!--        android:name="com.example.crochetapp.CurrentProjectFragment"-->
+<!--        android:label="Current Project"-->
+<!--        tools:layout="@layout/fragment_current_project" />-->
+
+<!--    <fragment-->
+<!--        android:id="@+id/settingsFragment"-->
+<!--        android:name="com.example.crochetapp.SettingsFragment"-->
+<!--        android:label="Settings"-->
+<!--        tools:layout="@layout/fragment_settings" />-->
+</navigation>

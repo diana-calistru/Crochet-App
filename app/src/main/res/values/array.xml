@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categories">
+        <item>Top</item>
+        <item>Sweater</item>
+        <item>Jacket</item>
+        <item>Pants</item>
+        <item>Skirt</item>
+        <item>Dress</item>
+        <item>Hat</item>
+        <item>Scarf</item>
+        <item>Bag</item>
+    </string-array>
+
+    <string-array name="parts">
+        <item>Sleeves</item>
+        <item>Body</item>
+        <item>Collar</item>
+        <item>Trim</item>
+    </string-array>
+
+    <string-array name="difficulties">
+        <item>Beginner</item>
+        <item>Intermediate</item>
+        <item>Advanced</item>
+    </string-array>
+</resources>

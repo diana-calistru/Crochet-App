@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- App colors -->
+    <color name="background">#141218</color>
+    <color name="secondary">#211F26</color>
+    <color name="tertiary">#2B2930</color>
+    <color name="lightest">#E6E0E9</color>
+    <color name="light_accent">#C4AFF3</color>
+    <color name="dark_accent">#381E72</color>
+    <color name="highlight">#9830B2</color>
+
+    <!-- Input field colors -->
+    <color name="input_background">#1E1E1E</color>
+    <color name="input_outline">#404040</color>
+</resources>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomFabShape" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">100dp</item>
+        <item name="fontWeight">1000</item>
+    </style>
+
+    <style name="InputField">
+        <item name="android:background">@drawable/input_field</item>
+        <item name="android:padding">8dp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="ImageUploadButton">
+        <item name="android:padding">8dp</item>
+        <item name="android:textColor">@color/light_accent</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:gravity">center</item>
+        <item name="icon">@drawable/round_add_photo_alternate_24</item>
+        <item name="iconTint">@color/light_accent</item>
+    </style>
+
+    <style name="PdfUploadButton">
+        <item name="android:padding">8dp</item>
+        <item name="android:textColor">@color/light_accent</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:gravity">center</item>
+        <item name="icon">@drawable/round_attach_file_24</item>
+        <item name="iconTint">@color/light_accent</item>
+    </style>
+
+    <style name="EditButton">
+        <item name="android:padding">8dp</item>
+        <item name="android:textColor">@color/light_accent</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:gravity">center</item>
+        <item name="icon">@drawable/round_edit_24</item>
+        <item name="iconTint">@color/light_accent</item>
+    </style>
+
+    <style name="DeleteButton">
+        <item name="android:padding">8dp</item>
+        <item name="android:textColor">@color/light_accent</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:gravity">center</item>
+        <item name="icon">@drawable/rounded_delete_24</item>
+        <item name="iconTint">@color/light_accent</item>
+    </style>
+
+    <style name="OpenPDFButton">
+        <item name="android:padding">8dp</item>
+        <item name="android:textColor">@color/light_accent</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:gravity">center</item>
+    </style>
+</resources>
